@@ -6,16 +6,16 @@
 #include <functional>
 #include <cstdlib>
 
-const int WIDTH = 800;
-const int HEIGHT = 600;
+constexpr int WIDTH = 800;
+constexpr int HEIGHT = 600;
 const std::vector<const char *> validationLayers = {
 	"VK_LAYER_LUNARG_standard_validation"
 };
 
 #ifdef NDEBUG
-const bool enableValidationLayers = false;
+constexpr bool enableValidationLayers = false;
 #else
-const bool enableValidationLayers = true;
+constexpr bool enableValidationLayers = true;
 #endif
 
 VkResult CreateDebugUtilsMessengerEXT(VkInstance instance, const VkDebugUtilsMessengerCreateInfoEXT* pCreateInfo, const VkAllocationCallbacks* pAllocator, VkDebugUtilsMessengerEXT* pCallback) {
