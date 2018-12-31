@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cale/CLionProjects/01-VulkanWindow/main.cpp
+GLFW/glfw3.h
+-
+iostream
+-
+stdexcept
+-
+functional
+-
+cstdlib
+-
+cstring
+-
+
