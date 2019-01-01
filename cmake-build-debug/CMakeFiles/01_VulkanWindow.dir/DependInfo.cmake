@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/cale/CLionProjects/01-VulkanWindow/main.cpp" "/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/CMakeFiles/01_VulkanWindow.dir/main.cpp.o"
+  "/home/cale/Documents/Source/vulkan-tutorial/main.cpp" "/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/CMakeFiles/01_VulkanWindow.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

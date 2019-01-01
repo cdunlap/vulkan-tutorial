@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug"/>
+				<Option working_dir="/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug"/>
+				<Option working_dir="/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="01_VulkanWindow">
-				<Option output="/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/01_VulkanWindow" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug"/>
+				<Option output="/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/01_VulkanWindow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_VulkanWindow"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_VulkanWindow"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="01_VulkanWindow/fast">
-				<Option output="/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/01_VulkanWindow" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug"/>
+				<Option output="/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/01_VulkanWindow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,27 +67,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_VulkanWindow/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_VulkanWindow/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug"/>
+				<Option working_dir="/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cale/CLionProjects/01-VulkanWindow/main.cpp">
+		<Unit filename="/home/cale/Documents/Source/vulkan-tutorial/main.cpp">
 			<Option target="01_VulkanWindow"/>
 		</Unit>
-		<Unit filename="/home/cale/CLionProjects/01-VulkanWindow/CMakeLists.txt">
+		<Unit filename="/home/cale/Documents/Source/vulkan-tutorial/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,4 +1,4 @@
-# Install script for directory: /home/cale/CLionProjects/01-VulkanWindow
+# Install script for directory: /home/cale/Documents/Source/vulkan-tutorial
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/cale/CLionProjects/01-VulkanWindow/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

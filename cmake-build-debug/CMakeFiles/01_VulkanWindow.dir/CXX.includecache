@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/cale/CLionProjects/01-VulkanWindow/main.cpp
+/home/cale/Documents/Source/vulkan-tutorial/main.cpp
 GLFW/glfw3.h
 -
 iostream
