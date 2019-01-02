@@ -11,3 +11,6 @@ include_directories(${GLFW_INCLUDE_DIRS})
 
 add_executable(01_VulkanWindow main.cpp)
 target_link_libraries(01_VulkanWindow ${GLFW_STATIC_LIBRARIES} vulkan)
+
+# Compile the shaders
+execute_process(COMMAND "./compile_shaders.sh")

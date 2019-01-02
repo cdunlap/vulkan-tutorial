@@ -37,3 +37,6 @@
 
 # clion CMake shit
 cmake-build-debug
+
+# SPIR-V shaders
+*.spv
