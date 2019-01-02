@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f619c763-e9af-4b64-8508-59c0dffad6d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/01_VulkanWindow" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/01_VulkanWindow" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -28,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="166" column="44" lean-forward="true" selection-start-line="166" selection-start-column="44" selection-end-line="166" selection-end-column="44" />
+            <state relative-caret-position="207">
+              <caret line="444" column="31" selection-start-line="444" selection-start-column="31" selection-end-line="444" selection-end-column="31" />
               <folding>
                 <element signature="e#28#51#0" expanded="true" />
                 <element signature="e#327#373#0" expanded="true" />
@@ -44,6 +45,7 @@
     <findStrings>
       <find>cleanup</find>
       <find>createLogical</find>
+      <find>createInfo.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,29 +105,29 @@
       <updated>1545735360009</updated>
       <workItem from="1545735369202" duration="1861000" />
       <workItem from="1546286479717" duration="2612000" />
-      <workItem from="1546335762702" duration="4991000" />
+      <workItem from="1546335762702" duration="8826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9464000" />
+    <option name="totallyTimeSpent" value="13299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49937266" visible="true" weight="0.14247599" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.50062734" side_tool="true" visible="true" weight="0.14247599" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.14247599" />
+      <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" visible="true" weight="0.14247599" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16369359" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16369359" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39979014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32843652" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -157,8 +159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="166" column="44" lean-forward="true" selection-start-line="166" selection-start-column="44" selection-end-line="166" selection-end-column="44" />
+        <state relative-caret-position="207">
+          <caret line="444" column="31" selection-start-line="444" selection-start-column="31" selection-end-line="444" selection-end-column="31" />
           <folding>
             <element signature="e#28#51#0" expanded="true" />
             <element signature="e#327#373#0" expanded="true" />
