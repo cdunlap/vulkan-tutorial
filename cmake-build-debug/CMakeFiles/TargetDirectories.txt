@@ -1,3 +1,0 @@
-/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/CMakeFiles/01_VulkanWindow.dir
-/home/cale/Documents/Source/vulkan-tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir

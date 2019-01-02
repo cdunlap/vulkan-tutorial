@@ -34,3 +34,6 @@
 # Visual Studio Shit
 .vs
 /x64/Debug
+
+# clion CMake shit
+cmake-build-debug

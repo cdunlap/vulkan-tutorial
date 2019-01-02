@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/01_VulkanWindow.dir/main.cpp.o  -o 01_VulkanWindow -lglfw -lrt -lm -ldl -lvulkan 
